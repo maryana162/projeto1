@@ -1,0 +1,15 @@
+H:\tep\terceirotrimestre\produtos29\produtos29\bin\Debug\produtos29.exe.config
+H:\tep\terceirotrimestre\produtos29\produtos29\bin\Debug\produtos29.exe
+H:\tep\terceirotrimestre\produtos29\produtos29\bin\Debug\produtos29.pdb
+H:\tep\terceirotrimestre\produtos29\produtos29\obj\Debug\produtos29.csprojAssemblyReference.cache
+H:\tep\terceirotrimestre\produtos29\produtos29\obj\Debug\produtos29.frmProduots.resources
+H:\tep\terceirotrimestre\produtos29\produtos29\obj\Debug\produtos29.frmMenu.resources
+H:\tep\terceirotrimestre\produtos29\produtos29\obj\Debug\produtos29.Properties.Resources.resources
+H:\tep\terceirotrimestre\produtos29\produtos29\obj\Debug\produtos29.csproj.GenerateResource.cache
+H:\tep\terceirotrimestre\produtos29\produtos29\obj\Debug\produtos29.csproj.CoreCompileInputs.cache
+H:\tep\terceirotrimestre\produtos29\produtos29\obj\Debug\produtos29.exe
+H:\tep\terceirotrimestre\produtos29\produtos29\obj\Debug\produtos29.pdb
+H:\tep\terceirotrimestre\produtos29\produtos29\bin\Debug\MySql.Data.dll
+H:\tep\terceirotrimestre\produtos29\produtos29\bin\Debug\Google.Protobuf.dll
+H:\tep\terceirotrimestre\produtos29\produtos29\bin\Debug\MySql.Data.xml
+H:\tep\terceirotrimestre\produtos29\produtos29\obj\Debug\produtos29.csproj.CopyComplete
